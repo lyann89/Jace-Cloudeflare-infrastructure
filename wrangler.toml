@@ -3,7 +3,7 @@ main = "src/index.ts"
 compatibility_date = "2024-01-01"
 
 [vars]
-API_KEY = "temporary-key-change-later"
+API_KEY = "eba4c2552f5d52f8ec1fb056c8216c7bd1d04983d37c49dfd8ba4395ac4273e9"
 
 [[d1_databases]]
 binding = "DB"
