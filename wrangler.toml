@@ -13,3 +13,5 @@ database_id = "01ab232e-c1ff-45b5-9608-fddbabfa8393"
 [[vectorize]]
 binding = "VECTORIZE"
 index_name = "jace-mind-vectors"
+[triggers]
+crons = ["*/15 * * * *"]
